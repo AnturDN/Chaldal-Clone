@@ -3,7 +3,6 @@ import Card2 from './Card2'
 
 const Card2_map = () => {
 
-
     const card2Details=[
 
         {
@@ -56,7 +55,6 @@ const Card2_map = () => {
         }
 
     ]
-
 
   return (
     <div className="slider-wrapper">
