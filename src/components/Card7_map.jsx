@@ -8,7 +8,6 @@ import { FaHandsHoldingCircle } from "react-icons/fa6";
 
 const Card7_map = () => {
 
-
     const card7Details = [
         {
             icon7 : <FaHome />,
