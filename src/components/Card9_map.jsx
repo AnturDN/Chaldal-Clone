@@ -4,7 +4,6 @@ import Card9 from './Card9'
 
 const Card9_map = () => {
 
-
     const card9Details = [
         {
             text1 : 'Corporate',
