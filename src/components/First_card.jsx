@@ -5,14 +5,12 @@ const First_card = ({icon, text}) => {
     <div>
 
       <div className="container">
-      
         <div className="card">
 
           <i>{icon}</i>
           
           <span>{text}</span>
         </div>
-
       </div>
         
     </div>
